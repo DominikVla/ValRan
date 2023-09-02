@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4"
+  },
+  "name": "valorant-randomiser",
+  "version": "1.0.0",
+  "description": "Random Valorant Experience",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Kyoko",
+  "license": "ISC"
+}
